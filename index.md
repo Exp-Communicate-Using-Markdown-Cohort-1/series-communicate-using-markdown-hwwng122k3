@@ -4,3 +4,4 @@
 # <h4> even smaller
 # <h5> nearly smallest
 # <h6> This is the smallest header
+![Image of a non-ear blue cat](https://octodex.github.com/images/yaktocat.png)
