@@ -1,7 +1,7 @@
 # <h1> This is the biggest header
-# <h2> This is the smaller header
-# <h3> smaller
-# <h4> even smaller
-# <h5> nearly smallest
+# This is the smaller header
+# smaller
+# even smaller
+# nearly smallest
 # <h6> This is the smallest header
 
